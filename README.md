@@ -1,4 +1,4 @@
-# Food tweets popularity
+# Twitter food popularity
 Short project done for the course "Intorduction to Machine Learning" @ UniTS.
 The goal is to build a tool for predicting how popular will be a tweet about food. 
 At the moment just a short paper is available.
