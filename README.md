@@ -4,3 +4,4 @@ The goal is to build a tool for predicting how popular will be a tweet about foo
 At the moment just a short paper is available.
 ### To-do
 - [ ] Add code for reproducibility of the project
+- [ ] Add the collected dataset
