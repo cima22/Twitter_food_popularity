@@ -1,5 +1,5 @@
 # Twitter food popularity
-Short project done for the course "Intorduction to Machine Learning" @ UniTS.
+Short project done for the course "Introduction to Machine Learning" @ UniTS.
 The goal is to build a tool for predicting how popular will be a tweet about food. 
 ## What do this repository contain?
 - A short report about the experiment.
